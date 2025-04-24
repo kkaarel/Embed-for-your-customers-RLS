@@ -1,4 +1,4 @@
-Original code is from [Python 3](https://github.com/microsoft/PowerBI-Developer-Samples/blob/master/Python/Embed%20for%20your%20customers/README.md)
+Original code is from [Microsoft](https://github.com/microsoft/PowerBI-Developer-Samples/blob/master/Python/Embed%20for%20your%20customers/README.md)
 
 
 # Power BI Embedded sample in Flask framework
